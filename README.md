@@ -19,14 +19,12 @@ We have learnt 10 sprints during 4 months program.
  
 - [x] [Rock Paper Scissor Game](https://replit.com/@NattakarnL/paoyingchub?v=1) - An interactive rock-paper-scissors game with bot
  
-# Statistics
-- [x] [AB Testing]() - 
- 
 # Essential Python for Data Analyst
--[x] [Analysis Sales Database](https://github.com/nattakarnl/bootcamp_projects/blob/50446a37b338356e239af3748d539ad95bb443f5/Python/Course%20Pandas%20Foundation%20-%20Final%20Project.ipynb) - Using the pandas and numpy library to analyze sales data
+- [x] [Analysis Sales Database](https://github.com/nattakarnl/bootcamp_projects/blob/50446a37b338356e239af3748d539ad95bb443f5/Python/Course%20Pandas%20Foundation%20-%20Final%20Project.ipynb) - Using the pandas and numpy library to analyze sales data
 
 # Dashboard
-
+- [x] [Superstore Sales Report](https://lookerstudio.google.com/s/lI2veipijNI) - A Dashboard showing Superstore Sales Data from 2014 - 2017 using Looker Studio
+- [x] [Hollywoods Most Profitable Movies](https://public.tableau.com/views/HollywoodsProfitability_dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - A Dashboard showing the Hollywoods Most Profitable Movies Data from 2007 to 2011 using Tableau Public
 
 Badges:
 
