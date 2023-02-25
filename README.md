@@ -26,5 +26,8 @@ We have learnt 10 sprints during 4 months program.
 - [x] [Superstore Sales Report](https://lookerstudio.google.com/s/lI2veipijNI) - A Dashboard showing Superstore Sales Data from 2014 - 2017 using Looker Studio
 - [x] [Hollywoods Most Profitable Movies](https://public.tableau.com/views/HollywoodsProfitability_dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - A Dashboard showing the Hollywoods Most Profitable Movies Data from 2007 to 2011 using Tableau Public
 
+# Web Scraping
+- [x] [Web Scraping Project](https://github.com/nattakarnl/bootcamp_projects/blob/2ed2b83c2efbc9f12cb2214fd524b2517634beed/web_scraping_project.pdf) - Scrape data from IMDB and specphone website
+
 Badges:
 
